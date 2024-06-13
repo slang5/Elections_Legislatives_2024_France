@@ -6,10 +6,14 @@ Ce projet a été développé dans le contexte de la dissolution anticipée de l
 L'objectif principal est de créer un modèle prédictif capable d'estimer les issues potentielles des élections législatives en fonction des tendances et résultats électoraux passés. Cette analyse vise à fournir des insights sur les dynamiques politiques et les changements potentiels dans le paysage politique français.
 
 ## Méthodologie
-Données : Les données utilisées pour développer ce modèle proviennent des résultats de scrutins antérieurs disponibles sur la plateforme www.data.gouv.fr. Cette source officielle regroupe les issues des élections européennes, présidentielles, et législatives précédentes, offrant une base de données complète pour l'analyse prédictive des tendances électorales en France.
-Traitement et Nettoyage des Données : Avant toute analyse, les données sont traitées et nettoyées en utilisant Excel pour garantir la qualité et la précision des données entrantes.
-Exploration et Visualisation : Une fois nettoyées, les données sont explorées et visualisées à l'aide des bibliothèques Python telles que numpy et pandas pour la manipulation des données, et matplotlib ainsi que seaborn pour la visualisation graphique. Cette étape permet de comprendre les tendances et les patterns qui émergent des données historiques.
-Modélisation : Les modèles de régression logistique et d'arbres de décision aléatoires (Random Forest) de la bibliothèque sklearn sont utilisés pour construire les modèles prédictifs. Le choix de ces modèles est dû à leur efficacité dans la gestion des classifications et de leurs capacités à traiter des caractéristiques non-linéaires.
+### Données : 
+Les données utilisées pour développer ce modèle proviennent des résultats de scrutins antérieurs disponibles sur la plateforme www.data.gouv.fr. Cette source officielle regroupe les issues des élections européennes, présidentielles, et législatives précédentes, offrant une base de données complète pour l'analyse prédictive des tendances électorales en France.
+### Traitement et Nettoyage des Données : 
+Avant toute analyse, les données sont traitées et nettoyées en utilisant Excel pour garantir la qualité et la précision des données entrantes.
+### Exploration et Visualisation : 
+Une fois nettoyées, les données sont explorées et visualisées à l'aide des bibliothèques Python telles que numpy et pandas pour la manipulation des données, et matplotlib ainsi que seaborn pour la visualisation graphique. Cette étape permet de comprendre les tendances et les patterns qui émergent des données historiques.
+### Modélisation : 
+Les modèles de régression logistique et d'arbres de décision aléatoires (Random Forest) de la bibliothèque sklearn sont utilisés pour construire les modèles prédictifs. Le choix de ces modèles est dû à leur efficacité dans la gestion des classifications et de leurs capacités à traiter des caractéristiques non-linéaires.
 Résultats
 Les modèles développés permettent d'estimer quel groupe politique est susceptible d'être élu dans chaque circonscription. Cette analyse prédictive fournit des prévisions précieuses sur la répartition des sièges à l'Assemblée nationale, basées sur les performances historiques des partis dans les scrutins précédents. Ces résultats sont essentiels pour anticiper les dynamiques politiques futures et pour évaluer les impacts potentiels des tendances électorales sur la politique française.
 
