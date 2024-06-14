@@ -1,5 +1,10 @@
-# Prédiction des Résultats des Élections Législatives Françaises (work in progress)
-Premières estimations : Union Populaire (27,6 %), Bloc Centriste (21,3 %), Bloc de Droite (5 %), Bloc d'Extrême Droite (46,1 %). 
+# Prédiction des Résultats des Élections Législatives Françaises (À vous de jouer)
+Version brouillon : Union Populaire (27,6 %), Bloc Centriste (21,3 %), Bloc de Droite (5 %), Bloc d'Extrême Droite (46,1 %).
+
+Version propore : Union Populaire (27.972%), Bloc Centriste (45.979%) Bloc de Droite (13.986%), Bloc d'Extrême Droite (12.062%).
+- Resultats un peu décevant vis-à-vis des récents sondages, il faudrait mieux selectionner les variables et ajouter des variables économiques, sociales et spatiales
+
+
 
 Nota bene : Durant les phases d'entraînement et de test, le modèle identifie correctement le bloc gagnant dans chaque circonscription à hauteur de 85 % et 70 % respectivement.
 ## Contexte
