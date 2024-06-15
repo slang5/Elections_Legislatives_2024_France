@@ -1,0 +1,20 @@
+Faire un modele simple avec :
+- part de la population dans le département de la circonscription
+- Abstention / Inscrit
+- variable binaire sur la région
+- 9eme decile de niveau de vie
+- 1er decile de niveau de vie
+- Ecart 9eme et 1er decile de niveau de vie
+- age moyen dans le departement
+- age median dans le departement
+- différence age moyen / median dans le departement
+- taux de natalité dans le departement
+- variation de la population dans le departement
+- taux de chomage 15 - 24 ans
+- taux de chomage 25 - 49 ans
+- taux de chomage plus de 50 ans
+- % Population en CSP (agriculteur, profession intermédiaire, employé, ouvrier, retraité, cadres)
+- Part des votes exprimés pour chaque bloc
+- Ecart type des % de votes pour chaque bloc
+- ID_politique du 1er, du 2nd, du 3eme, du 4eme
+- Binaire : 1er candidat en N est du même bloc politique que le 1er candidat en N-1
