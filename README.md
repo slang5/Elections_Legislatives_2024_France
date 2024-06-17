@@ -11,7 +11,7 @@ Version propre 2 : Union Populaire (25.174%), Bloc Centriste (45.104%) Bloc de D
 
 
 ## Contexte
-Ce projet a été développé dans le contexte de la dissolution anticipée de l'Assemblée nationale française suivant les élections européennes de 2024. Le but est de prédire les résultats des élections législatives anticipées à partir des données des scrutins précédents, y compris les élections européennes, présidentielles et législatives précédentes.
+Ce projet a été développé dans le contexte de la dissolution de l'Assemblée nationale française suivant les élections européennes de 2024. Le but est de prédire les résultats des élections législatives anticipées à partir des données des scrutins précédents, soit les élections européennes, présidentielles et législatives précédentes.
 
 ## Objectifs
 L'objectif principal est de créer un modèle prédictif capable d'estimer les issues potentielles des élections législatives en fonction des tendances et résultats électoraux passés. Cette analyse vise à fournir des insights sur les dynamiques politiques et les changements potentiels dans le paysage politique français.
