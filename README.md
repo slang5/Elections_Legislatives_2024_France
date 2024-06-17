@@ -7,6 +7,9 @@ Version brouillon : Union Populaire (27,6 %), Bloc Centriste (21,3 %), Bloc de D
 Version propore : Union Populaire (27.972%), Bloc Centriste (45.979%) Bloc de Droite (13.986%), Bloc d'Extrême Droite (12.062%).
 - Resultats un peu décevant vis-à-vis des récents sondages, il faudrait mieux selectionner les variables et ajouter des variables économiques, sociales et spatiales
 
+Version propre 2 : Union Populaire (23.426%), Bloc Centriste (48.426%) Bloc de Droite (6.6433%), Bloc d'Extrême Droite (21.503%).
+- Résultats un peu plus réalistes pour les blocs UP et ED que le précédent, néanmoins toujours un problème avec une forte proportion des circonscriptions gagnées par le centre alors que les sondages montrent des intentions de vote un peu plus que 2 fois inférieures.
+
 ## Contexte
 Ce projet a été développé dans le contexte de la dissolution anticipée de l'Assemblée nationale française suivant les élections européennes de 2024. Le but est de prédire les résultats des élections législatives anticipées à partir des données des scrutins précédents, y compris les élections européennes, présidentielles et législatives précédentes.
 
